@@ -1,4 +1,4 @@
 install: 
   - FILE="-Dfile=libwebrtc.aar" 
-  - mvn install:install-file $FILE -DgroupId=com.github.dcc-llc -DartifactId=webrtc-android -Dversion=91.0.0 -Dpackaging=aar -DgeneratePom=true
+  - mvn install:install-file $FILE -DgroupId=com.github.dcc-llc -DartifactId=webrtc-android -Dversion=96.0.0 -Dpackaging=aar -DgeneratePom=true
   
